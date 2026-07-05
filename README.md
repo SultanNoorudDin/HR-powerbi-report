@@ -6,7 +6,7 @@
 This project transforms raw, unstructured HR data into an interactive, enterprise-grade Business Intelligence solution. It is designed to help executive leadership and HR partners track workforce metrics, identify high-risk attrition trends, and make data-driven talent retention decisions.
 
 ##  Tech Stack & Tools
-* **Data Source:** Excel (`data/HR_Analytics-4.xlsx`)
+* **Data Source:** Excel (`HR_Analytics-4.xlsx`)
 * **BI & Modeling Platform:** Power BI Desktop
 * **Languages:** DAX (Data Analysis Expressions) for complex calculations, Power Query (M) for ETL
 * **Methodology:** Star Schema Data Modeling
