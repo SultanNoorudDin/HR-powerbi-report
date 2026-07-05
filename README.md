@@ -21,7 +21,6 @@ Before building the visuals, a robust data foundation was established using Powe
 Instead of relying on basic Excel aggregates, this solution implements advanced DAX measures to dynamic metrics. Key calculations include:
 * **Attrition Rate %:** Dynamically calculates workforce turnover relative to total headcount.
 * **Active Employee Count:** Filters and tracks real-time current staff levels across departments.
-* [Add 1 more specific DAX measure or KPI you calculated here]
 
 The data model utilizes a clean structure to minimize memory footprint and optimize dashboard rendering speed over large datasets.
 
@@ -33,5 +32,5 @@ The data model utilizes a clean structure to minimize memory footprint and optim
 ##  How to Run the Project
 1. Clone this repository to your local machine.
 2. Ensure you have **Power BI Desktop** installed.
-3. Open the file located in `pbix/hr-pb.pbix`.
-4. If prompted to refresh data, point the data source path to the `data/HR_Analytics-4.xlsx` file in your local directory.
+3. Open the file located in `hr-pb.pbix`.
+4. If prompted to refresh data, point the data source path to the `HR_Analytics-4.xlsx` file in your local directory.
